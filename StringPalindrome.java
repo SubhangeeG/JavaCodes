@@ -12,7 +12,7 @@ public class StringPalindrome{
     }
 }
 
-// using two pointers approach for O(1) instead of O(n)
+// using two pointers approach for space complexity of O(1) instead of O(n) 
 /*
 import java.util.Scanner;
 
