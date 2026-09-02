@@ -1,4 +1,4 @@
-// Find largest of 3 numbers given by user.
+// Find if a number given by user is even or odd.
 import java.util.*;
 
 public class EvenOdd {
